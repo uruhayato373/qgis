@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
+    "aggfunc",
     "chosei",
     "Citycode",
     "figsize",
@@ -8,9 +9,14 @@
     "iterrows",
     "kubun",
     "kuiki",
+    "mapshaper",
+    "prequantize",
     "resas",
     "shapefiles",
     "shigaika",
+    "tokei",
+    "topo",
+    "topojson",
     "youto"
   ]
 }
